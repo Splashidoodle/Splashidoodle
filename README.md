@@ -1,8 +1,6 @@
-I'm Sparsh, an I'm using GitHub to 
-try and make a messaging app in order 
-to get better at development.
+# About me
 
-This will probably be updated soon enough, but this is my first goal.
+Will update! I'm currently an undergraduate researcher @ UCF
 
 
 <!---
